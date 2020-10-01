@@ -1,0 +1,4 @@
+tensorflow==2.3.0
+joblib==0.14.1
+numpy==1.18.1
+streamlit==0.61.0
